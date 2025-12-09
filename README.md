@@ -70,4 +70,6 @@ java rpg.Main
 
 ## 🧑‍💻 Autores
 **Tiago Cosme**
+
 **Gustavo Barboza**
+
